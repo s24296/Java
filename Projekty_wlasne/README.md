@@ -1,1 +1,1 @@
-# Projekty własne.
+Projekty własne.
