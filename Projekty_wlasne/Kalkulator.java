@@ -62,4 +62,4 @@ public class Kalkulator {
         System.out.println("Wynik dzialania: " + wynik);
     }
 
-}
+} 
