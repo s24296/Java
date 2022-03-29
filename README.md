@@ -1,2 +1,3 @@
 # Java
-Tu wrzucam zadania z zajęć z Javy i nie tylko 
+
+Oprócz zadań z zajęć, wrzucam tu własne ćwiczenia/projekty.
